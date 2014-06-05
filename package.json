@@ -1,0 +1,19 @@
+{
+  "name": "nconf-saves-the-world",
+  "version": "0.0.0",
+  "description": "A test module to demonstrate configuration management using nconf.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/the-t-in-rtf/nconf-saves-the-world/"
+  },
+  "author": "Tony Atkins <tony@raisingthefloor.org>",
+  "license": "ISC",
+  "dependencies": {
+    "nconf": "^0.6.9",
+    "underscore-node": "^0.1.2"
+  }
+}
